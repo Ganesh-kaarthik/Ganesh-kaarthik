@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack web development**
 
-- 👨‍💻 All of my projects are available at [in development progress](in development progress)
+- 👨‍💻 All of my projects are (in development progress)
 
 - 💬 Ask me about **react and javascript**
 
